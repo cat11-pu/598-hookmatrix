@@ -1,0 +1,166 @@
+{
+  "responses": [
+    {
+      "path": "/rest/api/1.0/repos",
+      "query": "limit=50&start=0",
+      "status": 200,
+      "file": "responses/repos.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.isroot.stash.plugin.yacc:yaccHook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-hook-yacc.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-hook-post-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-hook-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.isroot.stash.plugin.yacc:yaccHook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-settings-yacc.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-settings-post-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-OPS-settings-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.atlassian.bitbucket.server.bitbucket-bundled-hooks:force-push-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-hook-force-push.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-merge-check-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-hook-merge-check.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-hook-post-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-hook-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-merge-check-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-settings-merge-check.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-settings-post-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/projects-SEC-settings-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/repos/deploy/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-OPS-deploy-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/repos/deploy/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-OPS-deploy-settings-post-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/repos/metrics/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-OPS-metrics-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/OPS/repos/metrics/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-OPS-metrics-settings-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/audit/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-audit-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/audit/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-merge-check-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-audit-settings-merge-check.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/audit/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-audit-settings-pre-receive.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/scanner/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-scanner-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/vault/settings/hooks",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-vault-hooks.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/vault/settings/hooks/com.atlassian.bitbucket.server.bitbucket-bundled-hooks:force-push-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-vault-settings-force-push.json"
+    },
+    {
+      "path": "/rest/api/1.0/projects/SEC/repos/vault/settings/hooks/com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook/settings",
+      "query": "",
+      "status": 200,
+      "file": "responses/repos-SEC-vault-settings-post-receive.json"
+    }
+  ]
+}

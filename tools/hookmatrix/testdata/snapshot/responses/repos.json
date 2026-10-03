@@ -1,0 +1,87 @@
+{
+  "size": 5,
+  "limit": 50,
+  "isLastPage": true,
+  "values": [
+    {
+      "id": 43,
+      "slug": "vault",
+      "name": "vault-keys",
+      "project": {
+        "id": 3,
+        "key": "SEC",
+        "name": "Security Engineering",
+        "public": false,
+        "type": "NORMAL"
+      },
+      "public": false,
+      "state": "AVAILABLE",
+      "scmId": "git",
+      "archived": false
+    },
+    {
+      "id": 72,
+      "slug": "metrics",
+      "name": "metrics-sink",
+      "project": {
+        "id": 7,
+        "key": "OPS",
+        "name": "Operations",
+        "public": false,
+        "type": "NORMAL"
+      },
+      "public": false,
+      "state": "AVAILABLE",
+      "scmId": "git",
+      "archived": false
+    },
+    {
+      "id": 41,
+      "slug": "audit",
+      "name": "audit-log",
+      "project": {
+        "id": 3,
+        "key": "SEC",
+        "name": "Security Engineering",
+        "public": false,
+        "type": "NORMAL"
+      },
+      "public": false,
+      "state": "AVAILABLE",
+      "scmId": "git",
+      "archived": false
+    },
+    {
+      "id": 71,
+      "slug": "deploy",
+      "name": "deployer",
+      "project": {
+        "id": 7,
+        "key": "OPS",
+        "name": "Operations",
+        "public": false,
+        "type": "NORMAL"
+      },
+      "public": false,
+      "state": "AVAILABLE",
+      "scmId": "git",
+      "archived": false
+    },
+    {
+      "id": 42,
+      "slug": "scanner",
+      "name": "scanner-service",
+      "project": {
+        "id": 3,
+        "key": "SEC",
+        "name": "Security Engineering",
+        "public": false,
+        "type": "NORMAL"
+      },
+      "public": false,
+      "state": "AVAILABLE",
+      "scmId": "git",
+      "archived": false
+    }
+  ]
+}

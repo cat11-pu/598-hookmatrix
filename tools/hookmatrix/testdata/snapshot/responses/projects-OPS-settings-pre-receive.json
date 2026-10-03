@@ -1,0 +1,5 @@
+{
+  "exe": "deploy-gate.sh",
+  "safe_path": true,
+  "params": "--env=prod"
+}

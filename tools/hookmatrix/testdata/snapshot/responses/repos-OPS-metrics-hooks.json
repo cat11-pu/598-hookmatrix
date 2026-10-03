@@ -1,0 +1,37 @@
+{
+  "size": 2,
+  "limit": 25,
+  "isLastPage": true,
+  "values": [
+    {
+      "details": {
+        "key": "com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook",
+        "name": "External Pre-Receive Hook",
+        "type": "PRE_RECEIVE",
+        "version": "1.0.0",
+        "description": "Runs an executable before a push is accepted."
+      },
+      "configured": true,
+      "enabled": true,
+      "scope": {
+        "type": "REPOSITORY"
+      },
+      "id": 100
+    },
+    {
+      "details": {
+        "key": "com.isroot.stash.plugin.yacc:yaccHook",
+        "name": "Yet Another Commit Checker",
+        "type": "PRE_RECEIVE",
+        "version": "4.5.1",
+        "description": "Rejects commits that break configured rules."
+      },
+      "configured": false,
+      "enabled": false,
+      "scope": {
+        "type": "REPOSITORY"
+      },
+      "id": 104
+    }
+  ]
+}

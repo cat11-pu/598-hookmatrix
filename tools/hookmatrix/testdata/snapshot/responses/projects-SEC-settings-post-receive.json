@@ -1,0 +1,5 @@
+{
+  "exe": "/opt/bitbucket/hooks/post-receive.sh",
+  "safe_path": false,
+  "params": "--timeout=30"
+}

@@ -1,0 +1,15 @@
+{
+  "details": {
+    "key": "com.atlassian.bitbucket.server.bitbucket-bundled-hooks:force-push-hook",
+    "name": "Force Push Hook",
+    "type": "FORCE_PUSH",
+    "version": "1.0.0",
+    "description": "Rejects force pushes."
+  },
+  "configured": false,
+  "enabled": false,
+  "scope": {
+    "type": "PROJECT"
+  },
+  "id": 103
+}

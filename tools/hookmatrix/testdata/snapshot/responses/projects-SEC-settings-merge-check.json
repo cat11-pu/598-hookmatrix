@@ -1,0 +1,5 @@
+{
+  "exe": "merge-check.sh",
+  "safe_path": true,
+  "params": "--block-on-conflict"
+}

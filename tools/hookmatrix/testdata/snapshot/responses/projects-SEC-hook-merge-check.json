@@ -1,0 +1,15 @@
+{
+  "details": {
+    "key": "com.ngs.stash.externalhooks.external-hooks:external-merge-check-hook",
+    "name": "External Merge Check Hook",
+    "type": "MERGE_CHECK",
+    "version": "1.0.0",
+    "description": "Runs an executable before a merge is accepted."
+  },
+  "configured": false,
+  "enabled": false,
+  "scope": {
+    "type": "PROJECT"
+  },
+  "id": 102
+}

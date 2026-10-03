@@ -1,0 +1,15 @@
+{
+  "details": {
+    "key": "com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook",
+    "name": "External Post-Receive Hook",
+    "type": "POST_RECEIVE",
+    "version": "1.0.0",
+    "description": "Runs an executable after a push is accepted."
+  },
+  "configured": false,
+  "enabled": false,
+  "scope": {
+    "type": "PROJECT"
+  },
+  "id": 101
+}

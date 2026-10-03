@@ -1,0 +1,5 @@
+{
+  "exe": "post-receive.sh",
+  "safe_path": true,
+  "params": ""
+}

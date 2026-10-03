@@ -1,0 +1,15 @@
+{
+  "details": {
+    "key": "com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook",
+    "name": "External Pre-Receive Hook",
+    "type": "PRE_RECEIVE",
+    "version": "1.0.0",
+    "description": "Runs an executable before a push is accepted."
+  },
+  "configured": false,
+  "enabled": false,
+  "scope": {
+    "type": "PROJECT"
+  },
+  "id": 100
+}

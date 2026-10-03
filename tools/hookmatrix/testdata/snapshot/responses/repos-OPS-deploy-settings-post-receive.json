@@ -1,0 +1,5 @@
+{
+  "exe": "/opt/hooks/post-receive.sh",
+  "safe_path": true,
+  "params": ""
+}

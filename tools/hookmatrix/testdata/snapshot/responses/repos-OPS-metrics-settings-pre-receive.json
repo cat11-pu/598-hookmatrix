@@ -1,0 +1,5 @@
+{
+  "exe": "metrics-gate.sh",
+  "safe_path": false,
+  "params": "--env=staging"
+}

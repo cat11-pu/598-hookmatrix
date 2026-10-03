@@ -1,0 +1,67 @@
+{
+  "size": 4,
+  "limit": 25,
+  "isLastPage": true,
+  "values": [
+    {
+      "details": {
+        "key": "com.ngs.stash.externalhooks.external-hooks:external-post-receive-hook",
+        "name": "External Post-Receive Hook",
+        "type": "POST_RECEIVE",
+        "version": "1.0.0",
+        "description": "Runs an executable after a push is accepted."
+      },
+      "configured": false,
+      "enabled": false,
+      "scope": {
+        "type": "REPOSITORY"
+      },
+      "id": 101
+    },
+    {
+      "details": {
+        "key": "com.atlassian.bitbucket.server.bitbucket-bundled-hooks:force-push-hook",
+        "name": "Force Push Hook",
+        "type": "FORCE_PUSH",
+        "version": "1.0.0",
+        "description": "Rejects force pushes."
+      },
+      "configured": false,
+      "enabled": false,
+      "scope": {
+        "type": "REPOSITORY"
+      },
+      "id": 103
+    },
+    {
+      "details": {
+        "key": "com.ngs.stash.externalhooks.external-hooks:external-merge-check-hook",
+        "name": "External Merge Check Hook",
+        "type": "MERGE_CHECK",
+        "version": "1.0.0",
+        "description": "Runs an executable before a merge is accepted."
+      },
+      "configured": false,
+      "enabled": true,
+      "scope": {
+        "type": "PROJECT"
+      },
+      "id": 102
+    },
+    {
+      "details": {
+        "key": "com.ngs.stash.externalhooks.external-hooks:external-pre-receive-hook",
+        "name": "External Pre-Receive Hook",
+        "type": "PRE_RECEIVE",
+        "version": "1.0.0",
+        "description": "Runs an executable before a push is accepted."
+      },
+      "configured": false,
+      "enabled": true,
+      "scope": {
+        "type": "PROJECT"
+      },
+      "id": 100
+    }
+  ]
+}

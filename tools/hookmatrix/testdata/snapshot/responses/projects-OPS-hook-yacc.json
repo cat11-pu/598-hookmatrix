@@ -1,0 +1,15 @@
+{
+  "details": {
+    "key": "com.isroot.stash.plugin.yacc:yaccHook",
+    "name": "Yet Another Commit Checker",
+    "type": "PRE_RECEIVE",
+    "version": "4.5.1",
+    "description": "Rejects commits that break configured rules."
+  },
+  "configured": false,
+  "enabled": false,
+  "scope": {
+    "type": "PROJECT"
+  },
+  "id": 104
+}

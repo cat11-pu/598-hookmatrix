@@ -1,0 +1,5 @@
+{
+  "exe": "audit-pre-receive.sh",
+  "safe_path": true,
+  "params": "--strict"
+}

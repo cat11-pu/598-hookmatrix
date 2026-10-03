@@ -1,0 +1,5 @@
+{
+  "exe": "pre-receive.sh",
+  "safe_path": true,
+  "params": "--strict\n--notify=sec@example.com"
+}
